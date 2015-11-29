@@ -1,0 +1,5 @@
+*.pptx
+.DS_Store
+code/.DS_Store
+code/asynchronous.sublime-project
+code/asynchronous.sublime-workspace
